@@ -1,0 +1,34 @@
+[0.880s] Invoking command in '/home/j/urdf_study/build/video_test': PYTHONPATH=/home/j/urdf_study/build/video_test/prefix_override:/home/j/urdf_study/install/video_test/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/j/urdf_study/build/video_test/build --no-deps install_data
+[1.114s] running develop
+[1.114s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.114s]   warnings.warn(
+[1.115s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.115s]   warnings.warn(
+[1.176s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.16.0-unknown is an invalid version and will not be supported in a future release
+[1.176s]   warnings.warn(
+[1.176s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[1.176s]   warnings.warn(
+[1.176s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 0.1.43ubuntu1 is an invalid version and will not be supported in a future release
+[1.176s]   warnings.warn(
+[1.291s] running egg_info
+[1.291s] creating video_test.egg-info
+[1.292s] writing video_test.egg-info/PKG-INFO
+[1.292s] writing dependency_links to video_test.egg-info/dependency_links.txt
+[1.292s] writing entry points to video_test.egg-info/entry_points.txt
+[1.292s] writing requirements to video_test.egg-info/requires.txt
+[1.292s] writing top-level names to video_test.egg-info/top_level.txt
+[1.293s] writing manifest file 'video_test.egg-info/SOURCES.txt'
+[1.294s] reading manifest file 'video_test.egg-info/SOURCES.txt'
+[1.294s] writing manifest file 'video_test.egg-info/SOURCES.txt'
+[1.319s] running build_ext
+[1.320s] Creating /home/j/urdf_study/install/video_test/lib/python3.10/site-packages/video-test.egg-link (link to .)
+[1.320s] Installing cam_test script to /home/j/urdf_study/install/video_test/lib/video_test
+[1.320s] 
+[1.321s] Installed /home/j/urdf_study/build/video_test
+[1.321s] running install_data
+[1.321s] creating /home/j/urdf_study/install/video_test/share/ament_index
+[1.321s] creating /home/j/urdf_study/install/video_test/share/ament_index/resource_index
+[1.321s] creating /home/j/urdf_study/install/video_test/share/ament_index/resource_index/packages
+[1.321s] copying resource/video_test -> /home/j/urdf_study/install/video_test/share/ament_index/resource_index/packages
+[1.321s] copying package.xml -> /home/j/urdf_study/install/video_test/share/video_test
+[1.353s] Invoked command in '/home/j/urdf_study/build/video_test' returned '0': PYTHONPATH=/home/j/urdf_study/build/video_test/prefix_override:/home/j/urdf_study/install/video_test/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/j/urdf_study/build/video_test/build --no-deps install_data

@@ -1,0 +1,58 @@
+[4.984s] Invoking command in '/home/j/urdf_study/build/yolox_ros_py': PYTHONPATH=/home/j/urdf_study/build/yolox_ros_py/prefix_override:/home/j/urdf_study/install/yolox_ros_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/j/urdf_study/build/yolox_ros_py/build --no-deps install_data
+[5.394s] /usr/lib/python3/dist-packages/setuptools/dist.py:723: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[5.394s]   warnings.warn(
+[5.420s] running develop
+[5.420s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[5.420s]   warnings.warn(
+[5.422s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[5.422s]   warnings.warn(
+[5.531s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.16.0-unknown is an invalid version and will not be supported in a future release
+[5.531s]   warnings.warn(
+[5.532s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[5.532s]   warnings.warn(
+[5.532s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 0.1.43ubuntu1 is an invalid version and will not be supported in a future release
+[5.532s]   warnings.warn(
+[5.729s] running egg_info
+[5.730s] creating yolox_ros_py.egg-info
+[5.730s] writing yolox_ros_py.egg-info/PKG-INFO
+[5.730s] writing dependency_links to yolox_ros_py.egg-info/dependency_links.txt
+[5.730s] writing entry points to yolox_ros_py.egg-info/entry_points.txt
+[5.730s] writing requirements to yolox_ros_py.egg-info/requires.txt
+[5.730s] writing top-level names to yolox_ros_py.egg-info/top_level.txt
+[5.731s] writing manifest file 'yolox_ros_py.egg-info/SOURCES.txt'
+[5.734s] reading manifest file 'yolox_ros_py.egg-info/SOURCES.txt'
+[5.735s] writing manifest file 'yolox_ros_py.egg-info/SOURCES.txt'
+[5.788s] running build_ext
+[5.788s] Creating /home/j/urdf_study/install/yolox_ros_py/lib/python3.10/site-packages/yolox-ros-py.egg-link (link to .)
+[5.791s] Installing yolox_onnx script to /home/j/urdf_study/install/yolox_ros_py/lib/yolox_ros_py
+[5.791s] Installing yolox_openvino script to /home/j/urdf_study/install/yolox_ros_py/lib/yolox_ros_py
+[5.792s] Installing yolox_ros script to /home/j/urdf_study/install/yolox_ros_py/lib/yolox_ros_py
+[5.792s] Installing yolox_tflite script to /home/j/urdf_study/install/yolox_ros_py/lib/yolox_ros_py
+[5.792s] 
+[5.792s] Installed /home/j/urdf_study/build/yolox_ros_py
+[5.792s] running install_data
+[5.793s] creating /home/j/urdf_study/install/yolox_ros_py/share/ament_index
+[5.793s] creating /home/j/urdf_study/install/yolox_ros_py/share/ament_index/resource_index
+[5.793s] creating /home/j/urdf_study/install/yolox_ros_py/share/ament_index/resource_index/packages
+[5.793s] copying resource/yolox_ros_py -> /home/j/urdf_study/install/yolox_ros_py/share/ament_index/resource_index/packages
+[5.793s] copying package.xml -> /home/j/urdf_study/install/yolox_ros_py/share/yolox_ros_py
+[5.793s] copying ./launch/yolox_nano_torch_cpu_camera.launch.py -> /home/j/urdf_study/install/yolox_ros_py/share/yolox_ros_py
+[5.793s] copying ./launch/yolox_nano_onnx_gazebo.launch.py -> /home/j/urdf_study/install/yolox_ros_py/share/yolox_ros_py
+[5.793s] copying ./launch/yolox_nano_onnx_picture.launch.py -> /home/j/urdf_study/install/yolox_ros_py/share/yolox_ros_py
+[5.793s] copying ./launch/yolox_nano_onnx_camera.launch.py -> /home/j/urdf_study/install/yolox_ros_py/share/yolox_ros_py
+[5.793s] copying ./launch/yolox_nano_torch_gpu_camera.launch.py -> /home/j/urdf_study/install/yolox_ros_py/share/yolox_ros_py
+[5.794s] copying ./launch/yolox_nano_onnx_youtube.launch.py -> /home/j/urdf_study/install/yolox_ros_py/share/yolox_ros_py
+[5.794s] copying ./launch/yolox_nano_openvino.launch.py -> /home/j/urdf_study/install/yolox_ros_py/share/yolox_ros_py
+[5.794s] copying ./launch/yolox_lite_tflite_camera.launch.py -> /home/j/urdf_study/install/yolox_ros_py/share/yolox_ros_py
+[5.794s] copying ../weights/yolox_nano.pth -> /home/j/urdf_study/install/yolox_ros_py/share/yolox_ros_py
+[5.805s] copying ../weights/yolox_nano.onnx -> /home/j/urdf_study/install/yolox_ros_py/share/yolox_ros_py
+[5.813s] copying ../weights/openvino/README.md -> /home/j/urdf_study/install/yolox_ros_py/share/yolox_ros_py
+[5.813s] copying ../weights/openvino/install.bash -> /home/j/urdf_study/install/yolox_ros_py/share/yolox_ros_py
+[5.813s] copying ../weights/openvino/download_openvino_s.bash -> /home/j/urdf_study/install/yolox_ros_py/share/yolox_ros_py
+[5.813s] copying ../weights/onnx/download.bash -> /home/j/urdf_study/install/yolox_ros_py/share/yolox_ros_py
+[5.813s] copying ../weights/tflite/model.onnx -> /home/j/urdf_study/install/yolox_ros_py/share/yolox_ros_py
+[5.818s] copying ../weights/tflite/model.tflite -> /home/j/urdf_study/install/yolox_ros_py/share/yolox_ros_py
+[5.820s] copying ../weights/tflite/download_model.bash -> /home/j/urdf_study/install/yolox_ros_py/share/yolox_ros_py
+[5.821s] copying ../weights/tensorrt/convert.bash -> /home/j/urdf_study/install/yolox_ros_py/share/yolox_ros_py
+[5.821s] copying ./exps/yolox_nano.py -> /home/j/urdf_study/install/yolox_ros_py/share/yolox_ros_py
+[5.952s] Invoked command in '/home/j/urdf_study/build/yolox_ros_py' returned '0': PYTHONPATH=/home/j/urdf_study/build/yolox_ros_py/prefix_override:/home/j/urdf_study/install/yolox_ros_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/j/urdf_study/build/yolox_ros_py/build --no-deps install_data

@@ -1,0 +1,7 @@
+{
+  "package_name": "bboxes_ex_msgs",
+  "non_idl_tuples": [
+    "/home/j/urdf_study/src/YOLOX-ROS/bbox_ex_msgs:msg/BoundingBox.msg",
+    "/home/j/urdf_study/src/YOLOX-ROS/bbox_ex_msgs:msg/BoundingBoxes.msg"
+  ]
+}

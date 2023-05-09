@@ -1,0 +1,21 @@
+[33mCMake Warning at CMakeLists.txt:28 (find_package):
+  By not providing "Findyolox_cpp.cmake" in CMAKE_MODULE_PATH this project
+  has asked CMake to find a package configuration file provided by
+  "yolox_cpp", but CMake did not find one.
+
+  Could not find a package configuration file provided by "yolox_cpp" with
+  any of the following names:
+
+    yolox_cppConfig.cmake
+    yolox_cpp-config.cmake
+
+  Add the installation prefix of "yolox_cpp" to CMAKE_PREFIX_PATH or set
+  "yolox_cpp_DIR" to a directory containing one of the above files.  If
+  "yolox_cpp" provides a separate development package or SDK, be sure it has
+  been installed.
+
+[0m
+[33mCMake Warning at CMakeLists.txt:31 (message):
+  skipping yolox_ros_cpp, no yolox_cpp found
+
+[0m

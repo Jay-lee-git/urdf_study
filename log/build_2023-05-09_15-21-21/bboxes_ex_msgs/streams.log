@@ -1,0 +1,225 @@
+[0.037s] Invoking command in '/home/j/urdf_study/build/bboxes_ex_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/j/ws_moveit2/install/moveit_configs_utils:/home/j/ws_moveit2/install/launch_param_builder:/opt/ros/humble /home/j/.local/bin/cmake /home/j/urdf_study/src/YOLOX-ROS/bbox_ex_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/j/urdf_study/install/bboxes_ex_msgs
+[0.288s] -- The C compiler identification is GNU 11.3.0
+[0.288s] -- The CXX compiler identification is GNU 11.3.0
+[0.288s] -- Detecting C compiler ABI info
+[0.288s] -- Detecting C compiler ABI info - done
+[0.289s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.289s] -- Detecting C compile features
+[0.290s] -- Detecting C compile features - done
+[0.290s] -- Detecting CXX compiler ABI info
+[0.303s] -- Detecting CXX compiler ABI info - done
+[0.319s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.320s] -- Detecting CXX compile features
+[0.320s] -- Detecting CXX compile features - done
+[0.327s] -- Found ament_cmake: 1.3.4 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.717s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[0.767s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.828s] -- Found builtin_interfaces: 1.2.1 (/opt/ros/humble/share/builtin_interfaces/cmake)
+[0.884s] -- Found rosidl_generator_c: 3.1.4 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.894s] -- Found rosidl_adapter: 3.1.4 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.909s] -- Found rosidl_generator_cpp: 3.1.4 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.931s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.962s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.004s] -- Found std_msgs: 4.2.3 (/opt/ros/humble/share/std_msgs/cmake)
+[1.046s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[1.259s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[1.462s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.537s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.556s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.6", minimum required is "3.6") 
+[1.560s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[1.584s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.6", minimum required is "3.5") 
+[1.584s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.584s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[1.584s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[1.600s] -- Found PythonExtra: .so  
+[1.683s] -- Configuring done (1.6s)
+[1.710s] -- Generating done (0.0s)
+[1.712s] -- Build files have been written to: /home/j/urdf_study/build/bboxes_ex_msgs
+[4.537s] Invoked command in '/home/j/urdf_study/build/bboxes_ex_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/j/ws_moveit2/install/moveit_configs_utils:/home/j/ws_moveit2/install/launch_param_builder:/opt/ros/humble /home/j/.local/bin/cmake /home/j/urdf_study/src/YOLOX-ROS/bbox_ex_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/j/urdf_study/install/bboxes_ex_msgs
+[4.538s] Invoking command in '/home/j/urdf_study/build/bboxes_ex_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/j/ws_moveit2/install/moveit_configs_utils:/home/j/ws_moveit2/install/launch_param_builder:/opt/ros/humble /home/j/.local/bin/cmake --build /home/j/urdf_study/build/bboxes_ex_msgs -- -j12 -l12
+[4.610s] [  2%] [34m[1mGenerating C code for ROS interfaces[0m
+[4.615s] [  5%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[4.618s] [  5%] Built target ament_cmake_python_symlink_bboxes_ex_msgs
+[4.856s] [  5%] Built target bboxes_ex_msgs__cpp
+[4.862s] running egg_info
+[4.863s] creating bboxes_ex_msgs.egg-info
+[4.863s] [ 12%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[4.863s] [ 12%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[4.863s] writing bboxes_ex_msgs.egg-info/PKG-INFO
+[4.863s] [ 12%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[4.863s] writing dependency_links to bboxes_ex_msgs.egg-info/dependency_links.txt
+[4.863s] writing top-level names to bboxes_ex_msgs.egg-info/top_level.txt
+[4.864s] writing manifest file 'bboxes_ex_msgs.egg-info/SOURCES.txt'
+[4.867s] reading manifest file 'bboxes_ex_msgs.egg-info/SOURCES.txt'
+[4.868s] writing manifest file 'bboxes_ex_msgs.egg-info/SOURCES.txt'
+[4.888s] [ 15%] [32mBuilding C object CMakeFiles/bboxes_ex_msgs__rosidl_generator_c.dir/rosidl_generator_c/bboxes_ex_msgs/msg/detail/bounding_boxes__functions.c.o[0m
+[4.889s] [ 17%] [32mBuilding C object CMakeFiles/bboxes_ex_msgs__rosidl_generator_c.dir/rosidl_generator_c/bboxes_ex_msgs/msg/detail/bounding_box__functions.c.o[0m
+[4.935s] [ 17%] Built target ament_cmake_python_build_bboxes_ex_msgs_egg
+[4.936s] [ 20%] [32m[1mLinking C shared library libbboxes_ex_msgs__rosidl_generator_c.so[0m
+[4.965s] [ 20%] Built target bboxes_ex_msgs__rosidl_generator_c
+[4.975s] [ 28%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[4.975s] [ 28%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[4.975s] [ 28%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[5.113s] [ 30%] [32mBuilding CXX object CMakeFiles/bboxes_ex_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/bboxes_ex_msgs/msg/bounding_box__type_support.cpp.o[0m
+[5.114s] [ 33%] [32mBuilding CXX object CMakeFiles/bboxes_ex_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/bboxes_ex_msgs/msg/bounding_boxes__type_support.cpp.o[0m
+[5.137s] [ 35%] [32mBuilding CXX object CMakeFiles/bboxes_ex_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/bboxes_ex_msgs/msg/detail/dds_fastrtps/bounding_box__type_support.cpp.o[0m
+[5.138s] [ 38%] [32mBuilding CXX object CMakeFiles/bboxes_ex_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/bboxes_ex_msgs/msg/detail/dds_fastrtps/bounding_boxes__type_support.cpp.o[0m
+[5.179s] [ 43%] [32mBuilding CXX object CMakeFiles/bboxes_ex_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/bboxes_ex_msgs/msg/detail/bounding_box__type_support.cpp.o[0m
+[5.179s] [ 43%] [32mBuilding CXX object CMakeFiles/bboxes_ex_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/bboxes_ex_msgs/msg/detail/bounding_boxes__type_support.cpp.o[0m
+[5.252s] [ 46%] [32mBuilding C object CMakeFiles/bboxes_ex_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/bboxes_ex_msgs/msg/detail/bounding_boxes__type_support.c.o[0m
+[5.254s] [ 48%] [32mBuilding C object CMakeFiles/bboxes_ex_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/bboxes_ex_msgs/msg/detail/bounding_box__type_support.c.o[0m
+[5.326s] [ 51%] [32m[1mLinking C shared library libbboxes_ex_msgs__rosidl_typesupport_introspection_c.so[0m
+[5.340s] [ 56%] [32mBuilding CXX object CMakeFiles/bboxes_ex_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/bboxes_ex_msgs/msg/bounding_box__type_support.cpp.o[0m
+[5.341s] [ 56%] [32mBuilding CXX object CMakeFiles/bboxes_ex_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/bboxes_ex_msgs/msg/bounding_boxes__type_support.cpp.o[0m
+[5.367s] [ 56%] Built target bboxes_ex_msgs__rosidl_typesupport_introspection_c
+[5.394s] [ 58%] [32m[1mLinking CXX shared library libbboxes_ex_msgs__rosidl_typesupport_c.so[0m
+[5.428s] [ 61%] [32mBuilding CXX object CMakeFiles/bboxes_ex_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/bboxes_ex_msgs/msg/detail/bounding_box__type_support_c.cpp.o[0m
+[5.429s] [ 64%] [32mBuilding CXX object CMakeFiles/bboxes_ex_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/bboxes_ex_msgs/msg/detail/bounding_boxes__type_support_c.cpp.o[0m
+[5.436s] [ 66%] [32m[1mLinking CXX shared library libbboxes_ex_msgs__rosidl_typesupport_cpp.so[0m
+[5.439s] [ 66%] Built target bboxes_ex_msgs__rosidl_typesupport_c
+[5.480s] [ 66%] Built target bboxes_ex_msgs__rosidl_typesupport_cpp
+[5.672s] [ 69%] [32m[1mLinking CXX shared library libbboxes_ex_msgs__rosidl_typesupport_fastrtps_cpp.so[0m
+[5.681s] [ 71%] [32m[1mLinking CXX shared library libbboxes_ex_msgs__rosidl_typesupport_introspection_cpp.so[0m
+[5.792s] [ 71%] Built target bboxes_ex_msgs__rosidl_typesupport_fastrtps_cpp
+[5.804s] [ 74%] [32m[1mLinking CXX shared library libbboxes_ex_msgs__rosidl_typesupport_fastrtps_c.so[0m
+[5.844s] [ 74%] Built target bboxes_ex_msgs__rosidl_typesupport_introspection_cpp
+[5.972s] [ 74%] Built target bboxes_ex_msgs__rosidl_typesupport_fastrtps_c
+[5.984s] [ 74%] Built target bboxes_ex_msgs
+[5.995s] [ 76%] [34m[1mGenerating Python code for ROS interfaces[0m
+[6.378s] [ 76%] Built target bboxes_ex_msgs__py
+[6.389s] [ 82%] [32mBuilding C object CMakeFiles/bboxes_ex_msgs__rosidl_generator_py.dir/rosidl_generator_py/bboxes_ex_msgs/msg/_bounding_box_s.c.o[0m
+[6.389s] [ 82%] [32mBuilding C object CMakeFiles/bboxes_ex_msgs__rosidl_generator_py.dir/rosidl_generator_py/bboxes_ex_msgs/msg/_bounding_boxes_s.c.o[0m
+[6.465s] [ 84%] [32m[1mLinking C shared library rosidl_generator_py/bboxes_ex_msgs/libbboxes_ex_msgs__rosidl_generator_py.so[0m
+[6.489s] [ 84%] Built target bboxes_ex_msgs__rosidl_generator_py
+[6.499s] [ 89%] [32mBuilding C object CMakeFiles/bboxes_ex_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/bboxes_ex_msgs/_bboxes_ex_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[6.499s] [ 89%] [32mBuilding C object CMakeFiles/bboxes_ex_msgs__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/bboxes_ex_msgs/_bboxes_ex_msgs_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[6.499s] [ 92%] [32mBuilding C object CMakeFiles/bboxes_ex_msgs__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/bboxes_ex_msgs/_bboxes_ex_msgs_s.ep.rosidl_typesupport_c.c.o[0m
+[6.577s] [ 94%] [32m[1mLinking C shared library rosidl_generator_py/bboxes_ex_msgs/bboxes_ex_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[6.589s] [ 97%] [32m[1mLinking C shared library rosidl_generator_py/bboxes_ex_msgs/bboxes_ex_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[6.593s] [100%] [32m[1mLinking C shared library rosidl_generator_py/bboxes_ex_msgs/bboxes_ex_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[6.609s] [100%] Built target bboxes_ex_msgs__rosidl_typesupport_fastrtps_c__pyext
+[6.616s] [100%] Built target bboxes_ex_msgs__rosidl_typesupport_c__pyext
+[6.620s] [100%] Built target bboxes_ex_msgs__rosidl_typesupport_introspection_c__pyext
+[6.633s] Invoked command in '/home/j/urdf_study/build/bboxes_ex_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/j/ws_moveit2/install/moveit_configs_utils:/home/j/ws_moveit2/install/launch_param_builder:/opt/ros/humble /home/j/.local/bin/cmake --build /home/j/urdf_study/build/bboxes_ex_msgs -- -j12 -l12
+[6.765s] Invoking command in '/home/j/urdf_study/build/bboxes_ex_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/j/ws_moveit2/install/moveit_configs_utils:/home/j/ws_moveit2/install/launch_param_builder:/opt/ros/humble /home/j/.local/bin/cmake --install /home/j/urdf_study/build/bboxes_ex_msgs
+[6.808s] -- Install configuration: ""
+[6.808s] -- Execute custom install script
+[6.809s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/share/ament_index/resource_index/rosidl_interfaces/bboxes_ex_msgs
+[6.812s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/include/bboxes_ex_msgs/bboxes_ex_msgs/msg/bounding_box.h
+[6.815s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/include/bboxes_ex_msgs/bboxes_ex_msgs/msg/bounding_boxes.h
+[6.817s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/include/bboxes_ex_msgs/bboxes_ex_msgs/msg/detail/bounding_box__functions.h
+[6.819s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/include/bboxes_ex_msgs/bboxes_ex_msgs/msg/detail/bounding_box__struct.h
+[6.822s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/include/bboxes_ex_msgs/bboxes_ex_msgs/msg/detail/bounding_box__type_support.h
+[6.825s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/include/bboxes_ex_msgs/bboxes_ex_msgs/msg/detail/bounding_boxes__functions.h
+[6.827s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/include/bboxes_ex_msgs/bboxes_ex_msgs/msg/detail/bounding_boxes__struct.h
+[6.829s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/include/bboxes_ex_msgs/bboxes_ex_msgs/msg/detail/bounding_boxes__type_support.h
+[6.831s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/include/bboxes_ex_msgs/bboxes_ex_msgs/msg/rosidl_generator_c__visibility_control.h
+[6.834s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/share/bboxes_ex_msgs/environment/library_path.sh
+[6.836s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/share/bboxes_ex_msgs/environment/library_path.dsv
+[6.839s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/include/bboxes_ex_msgs/bboxes_ex_msgs/msg/detail/bounding_box__rosidl_typesupport_fastrtps_c.h
+[6.841s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/include/bboxes_ex_msgs/bboxes_ex_msgs/msg/detail/bounding_boxes__rosidl_typesupport_fastrtps_c.h
+[6.843s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/include/bboxes_ex_msgs/bboxes_ex_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[6.846s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/include/bboxes_ex_msgs/bboxes_ex_msgs/msg/bounding_box.hpp
+[6.848s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/include/bboxes_ex_msgs/bboxes_ex_msgs/msg/bounding_boxes.hpp
+[6.851s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/include/bboxes_ex_msgs/bboxes_ex_msgs/msg/detail/bounding_box__builder.hpp
+[6.853s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/include/bboxes_ex_msgs/bboxes_ex_msgs/msg/detail/bounding_box__struct.hpp
+[6.855s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/include/bboxes_ex_msgs/bboxes_ex_msgs/msg/detail/bounding_box__traits.hpp
+[6.857s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/include/bboxes_ex_msgs/bboxes_ex_msgs/msg/detail/bounding_boxes__builder.hpp
+[6.860s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/include/bboxes_ex_msgs/bboxes_ex_msgs/msg/detail/bounding_boxes__struct.hpp
+[6.862s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/include/bboxes_ex_msgs/bboxes_ex_msgs/msg/detail/bounding_boxes__traits.hpp
+[6.865s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/include/bboxes_ex_msgs/bboxes_ex_msgs/msg/detail/bounding_box__rosidl_typesupport_fastrtps_cpp.hpp
+[6.867s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/include/bboxes_ex_msgs/bboxes_ex_msgs/msg/detail/bounding_boxes__rosidl_typesupport_fastrtps_cpp.hpp
+[6.870s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/include/bboxes_ex_msgs/bboxes_ex_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[6.872s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/include/bboxes_ex_msgs/bboxes_ex_msgs/msg/detail/bounding_box__rosidl_typesupport_introspection_c.h
+[6.874s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/include/bboxes_ex_msgs/bboxes_ex_msgs/msg/detail/bounding_boxes__rosidl_typesupport_introspection_c.h
+[6.876s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/include/bboxes_ex_msgs/bboxes_ex_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[6.879s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/include/bboxes_ex_msgs/bboxes_ex_msgs/msg/detail/bounding_box__rosidl_typesupport_introspection_cpp.hpp
+[6.881s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/include/bboxes_ex_msgs/bboxes_ex_msgs/msg/detail/bounding_boxes__rosidl_typesupport_introspection_cpp.hpp
+[6.884s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/share/bboxes_ex_msgs/environment/pythonpath.sh
+[6.886s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/share/bboxes_ex_msgs/environment/pythonpath.dsv
+[6.889s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/local/lib/python3.10/dist-packages/bboxes_ex_msgs-0.0.0-py3.10.egg-info/PKG-INFO
+[6.891s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/local/lib/python3.10/dist-packages/bboxes_ex_msgs-0.0.0-py3.10.egg-info/SOURCES.txt
+[6.893s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/local/lib/python3.10/dist-packages/bboxes_ex_msgs-0.0.0-py3.10.egg-info/dependency_links.txt
+[6.896s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/local/lib/python3.10/dist-packages/bboxes_ex_msgs-0.0.0-py3.10.egg-info/top_level.txt
+[6.899s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/local/lib/python3.10/dist-packages/bboxes_ex_msgs/__init__.py
+[6.901s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/local/lib/python3.10/dist-packages/bboxes_ex_msgs/_bboxes_ex_msgs_s.ep.rosidl_typesupport_c.c
+[6.904s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/local/lib/python3.10/dist-packages/bboxes_ex_msgs/_bboxes_ex_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[6.906s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/local/lib/python3.10/dist-packages/bboxes_ex_msgs/_bboxes_ex_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[6.908s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/local/lib/python3.10/dist-packages/bboxes_ex_msgs/bboxes_ex_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[6.911s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/local/lib/python3.10/dist-packages/bboxes_ex_msgs/bboxes_ex_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[6.913s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/local/lib/python3.10/dist-packages/bboxes_ex_msgs/bboxes_ex_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[6.916s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/local/lib/python3.10/dist-packages/bboxes_ex_msgs/libbboxes_ex_msgs__rosidl_generator_py.so
+[6.918s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/local/lib/python3.10/dist-packages/bboxes_ex_msgs/msg/__init__.py
+[6.921s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/local/lib/python3.10/dist-packages/bboxes_ex_msgs/msg/_bounding_box.py
+[6.923s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/local/lib/python3.10/dist-packages/bboxes_ex_msgs/msg/_bounding_box_s.c
+[6.925s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/local/lib/python3.10/dist-packages/bboxes_ex_msgs/msg/_bounding_boxes.py
+[6.927s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/local/lib/python3.10/dist-packages/bboxes_ex_msgs/msg/_bounding_boxes_s.c
+[6.930s] -- Up-to-date symlink: /home/j/urdf_study/install/bboxes_ex_msgs/local/lib/python3.10/dist-packages/bboxes_ex_msgs/bboxes_ex_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[6.930s] -- Up-to-date symlink: /home/j/urdf_study/install/bboxes_ex_msgs/local/lib/python3.10/dist-packages/bboxes_ex_msgs/bboxes_ex_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[6.930s] -- Up-to-date symlink: /home/j/urdf_study/install/bboxes_ex_msgs/local/lib/python3.10/dist-packages/bboxes_ex_msgs/bboxes_ex_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[6.930s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/share/bboxes_ex_msgs/msg/BoundingBox.idl
+[6.933s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/share/bboxes_ex_msgs/msg/BoundingBoxes.idl
+[6.935s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/share/bboxes_ex_msgs/msg/BoundingBox.msg
+[6.937s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/share/bboxes_ex_msgs/msg/BoundingBoxes.msg
+[6.940s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/share/ament_index/resource_index/package_run_dependencies/bboxes_ex_msgs
+[6.942s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/share/ament_index/resource_index/parent_prefix_path/bboxes_ex_msgs
+[6.945s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/share/bboxes_ex_msgs/environment/ament_prefix_path.sh
+[6.947s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/share/bboxes_ex_msgs/environment/ament_prefix_path.dsv
+[6.950s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/share/bboxes_ex_msgs/environment/path.sh
+[6.952s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/share/bboxes_ex_msgs/environment/path.dsv
+[6.954s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/share/bboxes_ex_msgs/local_setup.bash
+[6.957s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/share/bboxes_ex_msgs/local_setup.sh
+[6.959s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/share/bboxes_ex_msgs/local_setup.zsh
+[6.961s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/share/bboxes_ex_msgs/local_setup.dsv
+[6.965s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/share/bboxes_ex_msgs/package.dsv
+[6.967s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/share/ament_index/resource_index/packages/bboxes_ex_msgs
+[6.969s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/share/bboxes_ex_msgs/cmake/rosidl_cmake-extras.cmake
+[6.972s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/share/bboxes_ex_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[6.974s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/share/bboxes_ex_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[6.977s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/share/bboxes_ex_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[6.979s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/share/bboxes_ex_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[6.982s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/share/bboxes_ex_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[6.984s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/share/bboxes_ex_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[6.986s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/share/bboxes_ex_msgs/cmake/bboxes_ex_msgsConfig.cmake
+[6.989s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/share/bboxes_ex_msgs/cmake/bboxes_ex_msgsConfig-version.cmake
+[6.991s] -- Symlinking: /home/j/urdf_study/install/bboxes_ex_msgs/share/bboxes_ex_msgs/package.xml
+[6.993s] -- Installing: /home/j/urdf_study/install/bboxes_ex_msgs/lib/libbboxes_ex_msgs__rosidl_generator_c.so
+[6.994s] -- Set runtime path of "/home/j/urdf_study/install/bboxes_ex_msgs/lib/libbboxes_ex_msgs__rosidl_generator_c.so" to ""
+[6.994s] -- Installing: /home/j/urdf_study/install/bboxes_ex_msgs/lib/libbboxes_ex_msgs__rosidl_typesupport_fastrtps_c.so
+[6.994s] -- Set runtime path of "/home/j/urdf_study/install/bboxes_ex_msgs/lib/libbboxes_ex_msgs__rosidl_typesupport_fastrtps_c.so" to ""
+[6.994s] -- Installing: /home/j/urdf_study/install/bboxes_ex_msgs/lib/libbboxes_ex_msgs__rosidl_typesupport_fastrtps_cpp.so
+[6.994s] -- Set runtime path of "/home/j/urdf_study/install/bboxes_ex_msgs/lib/libbboxes_ex_msgs__rosidl_typesupport_fastrtps_cpp.so" to ""
+[6.995s] -- Installing: /home/j/urdf_study/install/bboxes_ex_msgs/lib/libbboxes_ex_msgs__rosidl_typesupport_introspection_c.so
+[6.995s] -- Set runtime path of "/home/j/urdf_study/install/bboxes_ex_msgs/lib/libbboxes_ex_msgs__rosidl_typesupport_introspection_c.so" to ""
+[6.995s] -- Installing: /home/j/urdf_study/install/bboxes_ex_msgs/lib/libbboxes_ex_msgs__rosidl_typesupport_c.so
+[6.995s] -- Set runtime path of "/home/j/urdf_study/install/bboxes_ex_msgs/lib/libbboxes_ex_msgs__rosidl_typesupport_c.so" to ""
+[6.995s] -- Installing: /home/j/urdf_study/install/bboxes_ex_msgs/lib/libbboxes_ex_msgs__rosidl_typesupport_introspection_cpp.so
+[6.995s] -- Set runtime path of "/home/j/urdf_study/install/bboxes_ex_msgs/lib/libbboxes_ex_msgs__rosidl_typesupport_introspection_cpp.so" to ""
+[6.995s] -- Installing: /home/j/urdf_study/install/bboxes_ex_msgs/lib/libbboxes_ex_msgs__rosidl_typesupport_cpp.so
+[6.996s] -- Set runtime path of "/home/j/urdf_study/install/bboxes_ex_msgs/lib/libbboxes_ex_msgs__rosidl_typesupport_cpp.so" to ""
+[7.024s] Listing '/home/j/urdf_study/install/bboxes_ex_msgs/local/lib/python3.10/dist-packages/bboxes_ex_msgs'...
+[7.024s] Compiling '/home/j/urdf_study/install/bboxes_ex_msgs/local/lib/python3.10/dist-packages/bboxes_ex_msgs/__init__.py'...
+[7.024s] Listing '/home/j/urdf_study/install/bboxes_ex_msgs/local/lib/python3.10/dist-packages/bboxes_ex_msgs/msg'...
+[7.024s] Compiling '/home/j/urdf_study/install/bboxes_ex_msgs/local/lib/python3.10/dist-packages/bboxes_ex_msgs/msg/__init__.py'...
+[7.024s] Compiling '/home/j/urdf_study/install/bboxes_ex_msgs/local/lib/python3.10/dist-packages/bboxes_ex_msgs/msg/_bounding_box.py'...
+[7.024s] Compiling '/home/j/urdf_study/install/bboxes_ex_msgs/local/lib/python3.10/dist-packages/bboxes_ex_msgs/msg/_bounding_boxes.py'...
+[7.027s] -- Installing: /home/j/urdf_study/install/bboxes_ex_msgs/lib/libbboxes_ex_msgs__rosidl_generator_py.so
+[7.027s] -- Set runtime path of "/home/j/urdf_study/install/bboxes_ex_msgs/lib/libbboxes_ex_msgs__rosidl_generator_py.so" to ""
+[7.028s] -- Installing: /home/j/urdf_study/install/bboxes_ex_msgs/share/bboxes_ex_msgs/cmake/export_bboxes_ex_msgs__rosidl_generator_cExport.cmake
+[7.028s] -- Installing: /home/j/urdf_study/install/bboxes_ex_msgs/share/bboxes_ex_msgs/cmake/export_bboxes_ex_msgs__rosidl_generator_cExport-noconfig.cmake
+[7.028s] -- Installing: /home/j/urdf_study/install/bboxes_ex_msgs/share/bboxes_ex_msgs/cmake/export_bboxes_ex_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[7.028s] -- Installing: /home/j/urdf_study/install/bboxes_ex_msgs/share/bboxes_ex_msgs/cmake/export_bboxes_ex_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[7.028s] -- Installing: /home/j/urdf_study/install/bboxes_ex_msgs/share/bboxes_ex_msgs/cmake/export_bboxes_ex_msgs__rosidl_generator_cppExport.cmake
+[7.028s] -- Installing: /home/j/urdf_study/install/bboxes_ex_msgs/share/bboxes_ex_msgs/cmake/export_bboxes_ex_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[7.028s] -- Installing: /home/j/urdf_study/install/bboxes_ex_msgs/share/bboxes_ex_msgs/cmake/export_bboxes_ex_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[7.028s] -- Installing: /home/j/urdf_study/install/bboxes_ex_msgs/share/bboxes_ex_msgs/cmake/bboxes_ex_msgs__rosidl_typesupport_introspection_cExport.cmake
+[7.028s] -- Installing: /home/j/urdf_study/install/bboxes_ex_msgs/share/bboxes_ex_msgs/cmake/bboxes_ex_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[7.028s] -- Installing: /home/j/urdf_study/install/bboxes_ex_msgs/share/bboxes_ex_msgs/cmake/bboxes_ex_msgs__rosidl_typesupport_cExport.cmake
+[7.028s] -- Installing: /home/j/urdf_study/install/bboxes_ex_msgs/share/bboxes_ex_msgs/cmake/bboxes_ex_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[7.028s] -- Installing: /home/j/urdf_study/install/bboxes_ex_msgs/share/bboxes_ex_msgs/cmake/bboxes_ex_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[7.028s] -- Installing: /home/j/urdf_study/install/bboxes_ex_msgs/share/bboxes_ex_msgs/cmake/bboxes_ex_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[7.029s] -- Installing: /home/j/urdf_study/install/bboxes_ex_msgs/share/bboxes_ex_msgs/cmake/bboxes_ex_msgs__rosidl_typesupport_cppExport.cmake
+[7.029s] -- Installing: /home/j/urdf_study/install/bboxes_ex_msgs/share/bboxes_ex_msgs/cmake/bboxes_ex_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[7.029s] -- Installing: /home/j/urdf_study/install/bboxes_ex_msgs/share/bboxes_ex_msgs/cmake/export_bboxes_ex_msgs__rosidl_generator_pyExport.cmake
+[7.029s] -- Installing: /home/j/urdf_study/install/bboxes_ex_msgs/share/bboxes_ex_msgs/cmake/export_bboxes_ex_msgs__rosidl_generator_pyExport-noconfig.cmake
+[7.036s] Invoked command in '/home/j/urdf_study/build/bboxes_ex_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/j/ws_moveit2/install/moveit_configs_utils:/home/j/ws_moveit2/install/launch_param_builder:/opt/ros/humble /home/j/.local/bin/cmake --install /home/j/urdf_study/build/bboxes_ex_msgs

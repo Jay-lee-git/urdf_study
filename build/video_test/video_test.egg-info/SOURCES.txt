@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+resource/video_test
+video_test/__init__.py
+video_test/cam_test.py
+video_test.egg-info/PKG-INFO
+video_test.egg-info/SOURCES.txt
+video_test.egg-info/dependency_links.txt
+video_test.egg-info/entry_points.txt
+video_test.egg-info/requires.txt
+video_test.egg-info/top_level.txt
+video_test.egg-info/zip-safe

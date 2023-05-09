@@ -1,0 +1,26 @@
+[0.501s] Invoking command in '/home/j/urdf_study/src/video_test': PYTHONPATH=/home/j/urdf_study/build/video_test/prefix_override:/home/j/urdf_study/install/video_test/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/video_test build --build-base /home/j/urdf_study/build/video_test/build install --record /home/j/urdf_study/build/video_test/install.log --single-version-externally-managed
+[0.699s] running egg_info
+[0.699s] writing ../../build/video_test/video_test.egg-info/PKG-INFO
+[0.699s] writing dependency_links to ../../build/video_test/video_test.egg-info/dependency_links.txt
+[0.699s] writing entry points to ../../build/video_test/video_test.egg-info/entry_points.txt
+[0.699s] writing requirements to ../../build/video_test/video_test.egg-info/requires.txt
+[0.700s] writing top-level names to ../../build/video_test/video_test.egg-info/top_level.txt
+[0.701s] reading manifest file '../../build/video_test/video_test.egg-info/SOURCES.txt'
+[0.701s] writing manifest file '../../build/video_test/video_test.egg-info/SOURCES.txt'
+[0.701s] running build
+[0.702s] running build_py
+[0.702s] copying video_test/cam_test.py -> /home/j/urdf_study/build/video_test/build/lib/video_test
+[0.702s] running install
+[0.702s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.702s]   warnings.warn(
+[0.702s] running install_lib
+[0.703s] copying /home/j/urdf_study/build/video_test/build/lib/video_test/cam_test.py -> /home/j/urdf_study/install/video_test/lib/python3.10/site-packages/video_test
+[0.703s] byte-compiling /home/j/urdf_study/install/video_test/lib/python3.10/site-packages/video_test/cam_test.py to cam_test.cpython-310.pyc
+[0.703s] running install_data
+[0.704s] running install_egg_info
+[0.705s] removing '/home/j/urdf_study/install/video_test/lib/python3.10/site-packages/video_test-0.0.0-py3.10.egg-info' (and everything under it)
+[0.705s] Copying ../../build/video_test/video_test.egg-info to /home/j/urdf_study/install/video_test/lib/python3.10/site-packages/video_test-0.0.0-py3.10.egg-info
+[0.706s] running install_scripts
+[0.721s] Installing cam_test script to /home/j/urdf_study/install/video_test/lib/video_test
+[0.721s] writing list of installed files to '/home/j/urdf_study/build/video_test/install.log'
+[0.738s] Invoked command in '/home/j/urdf_study/src/video_test' returned '0': PYTHONPATH=/home/j/urdf_study/build/video_test/prefix_override:/home/j/urdf_study/install/video_test/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/video_test build --build-base /home/j/urdf_study/build/video_test/build install --record /home/j/urdf_study/build/video_test/install.log --single-version-externally-managed

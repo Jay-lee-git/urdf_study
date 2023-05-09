@@ -1,0 +1,59 @@
+[33mCMake Warning at CMakeLists.txt:40 (find_package):
+  By not providing "FindInferenceEngine.cmake" in CMAKE_MODULE_PATH this
+  project has asked CMake to find a package configuration file provided by
+  "InferenceEngine", but CMake did not find one.
+
+  Could not find a package configuration file provided by "InferenceEngine"
+  with any of the following names:
+
+    InferenceEngineConfig.cmake
+    inferenceengine-config.cmake
+
+  Add the installation prefix of "InferenceEngine" to CMAKE_PREFIX_PATH or
+  set "InferenceEngine_DIR" to a directory containing one of the above files.
+  If "InferenceEngine" provides a separate development package or SDK, be
+  sure it has been installed.
+
+[0m
+[33mCMake Warning at CMakeLists.txt:41 (find_package):
+  By not providing "Findngraph.cmake" in CMAKE_MODULE_PATH this project has
+  asked CMake to find a package configuration file provided by "ngraph", but
+  CMake did not find one.
+
+  Could not find a package configuration file provided by "ngraph" with any
+  of the following names:
+
+    ngraphConfig.cmake
+    ngraph-config.cmake
+
+  Add the installation prefix of "ngraph" to CMAKE_PREFIX_PATH or set
+  "ngraph_DIR" to a directory containing one of the above files.  If "ngraph"
+  provides a separate development package or SDK, be sure it has been
+  installed.
+
+[0m
+[33mCMake Warning at CMakeLists.txt:58 (message):
+   NVINFER not found
+
+[0m
+[33mCMake Warning at CMakeLists.txt:61 (message):
+   NVINFERPLUGIN not found
+
+[0m
+[33mCMake Warning at CMakeLists.txt:64 (message):
+   NVPARSERS not found
+
+[0m
+[33mCMake Warning at CMakeLists.txt:67 (message):
+   NVONNXPARSER not found
+
+[0m
+[33mCMake Warning at CMakeLists.txt:83 (message):
+   ONNXRUNTIME not found
+
+[0m
+[33mCMake Warning at CMakeLists.txt:108 (message):
+  skip building yolox_cpp, no OpenVINO, TensorRT, ONNXRuntime and tflite
+  found
+
+[0m
