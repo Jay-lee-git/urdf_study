@@ -1,1 +1,0 @@
-/home/j/urdf_study/src/YOLOX-ROS/yolox_ros_py/./launch/yolox_nano_torch_cpu_camera.launch.py

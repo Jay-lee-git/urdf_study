@@ -1,1 +1,3 @@
-/home/j/urdf_study/src/YOLOX-ROS/bbox_ex_msgs/msg/BoundingBoxes.msg
+std_msgs/Header header
+std_msgs/Header image_header
+BoundingBox[] bounding_boxes

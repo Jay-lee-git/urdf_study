@@ -1,0 +1,22 @@
+[  2%] Built target bboxes_ex_msgs__cpp
+[ 12%] Built target bboxes_ex_msgs__rosidl_generator_c
+[ 12%] Built target ament_cmake_python_symlink_bboxes_ex_msgs
+[ 23%] Built target bboxes_ex_msgs__rosidl_typesupport_c
+[ 33%] Built target bboxes_ex_msgs__rosidl_typesupport_cpp
+[ 46%] Built target bboxes_ex_msgs__rosidl_typesupport_fastrtps_c
+[ 53%] Built target bboxes_ex_msgs__rosidl_typesupport_introspection_cpp
+[ 64%] Built target bboxes_ex_msgs__rosidl_typesupport_fastrtps_cpp
+[ 74%] Built target bboxes_ex_msgs__rosidl_typesupport_introspection_c
+[ 74%] Built target bboxes_ex_msgs
+[ 76%] Built target bboxes_ex_msgs__py
+[ 84%] Built target bboxes_ex_msgs__rosidl_generator_py
+[100%] Built target bboxes_ex_msgs__rosidl_typesupport_c__pyext
+[100%] Built target bboxes_ex_msgs__rosidl_typesupport_introspection_c__pyext
+[100%] Built target bboxes_ex_msgs__rosidl_typesupport_fastrtps_c__pyext
+running egg_info
+writing bboxes_ex_msgs.egg-info/PKG-INFO
+writing dependency_links to bboxes_ex_msgs.egg-info/dependency_links.txt
+writing top-level names to bboxes_ex_msgs.egg-info/top_level.txt
+reading manifest file 'bboxes_ex_msgs.egg-info/SOURCES.txt'
+writing manifest file 'bboxes_ex_msgs.egg-info/SOURCES.txt'
+[100%] Built target ament_cmake_python_build_bboxes_ex_msgs_egg

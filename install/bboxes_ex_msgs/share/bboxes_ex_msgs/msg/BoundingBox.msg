@@ -1,1 +1,11 @@
-/home/j/urdf_study/src/YOLOX-ROS/bbox_ex_msgs/msg/BoundingBox.msg
+float32 probability
+uint16 xmin
+uint16 ymin
+uint16 xmax
+uint16 ymax
+uint16 id
+uint16 img_width
+uint16 img_height
+int32 center_dist
+
+string class_id

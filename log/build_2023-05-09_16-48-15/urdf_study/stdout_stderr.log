@@ -1,0 +1,8 @@
+-- Install configuration: ""
+-- Up-to-date: /home/j/urdf_study/install/urdf_study/share/urdf_study/launch
+-- Installing: /home/j/urdf_study/install/urdf_study/share/urdf_study/launch/simple_display.launch.py
+[31mCMake Error at cmake_install.cmake:46 (file):
+  file INSTALL cannot find "/home/j/urdf_study/src/urdf_study/urdf_study": No
+  such file or directory.
+
+[0m

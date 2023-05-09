@@ -1,0 +1,1 @@
+Invoking command in '/home/j/urdf_study/build/video_test': PYTHONPATH=/home/j/urdf_study/build/video_test/prefix_override:/home/j/urdf_study/install/video_test/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/j/urdf_study/build/video_test/build

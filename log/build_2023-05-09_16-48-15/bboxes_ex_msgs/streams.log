@@ -1,0 +1,24 @@
+[0.042s] Invoking command in '/home/j/urdf_study/build/bboxes_ex_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/j/urdf_study/install/yolox_ros_py:/home/j/urdf_study/install/video_test:/home/j/ws_moveit2/install/moveit_configs_utils:/home/j/ws_moveit2/install/launch_param_builder:/opt/ros/humble /home/j/.local/bin/cmake --build /home/j/urdf_study/build/bboxes_ex_msgs -- -j12 -l12
+[0.314s] [  2%] Built target bboxes_ex_msgs__cpp
+[0.315s] [ 12%] Built target bboxes_ex_msgs__rosidl_generator_c
+[0.315s] [ 12%] Built target ament_cmake_python_symlink_bboxes_ex_msgs
+[0.316s] [ 23%] Built target bboxes_ex_msgs__rosidl_typesupport_c
+[0.316s] [ 33%] Built target bboxes_ex_msgs__rosidl_typesupport_cpp
+[0.316s] [ 46%] Built target bboxes_ex_msgs__rosidl_typesupport_fastrtps_c
+[0.316s] [ 53%] Built target bboxes_ex_msgs__rosidl_typesupport_introspection_cpp
+[0.316s] [ 64%] Built target bboxes_ex_msgs__rosidl_typesupport_fastrtps_cpp
+[0.317s] [ 74%] Built target bboxes_ex_msgs__rosidl_typesupport_introspection_c
+[0.317s] [ 74%] Built target bboxes_ex_msgs
+[0.317s] [ 76%] Built target bboxes_ex_msgs__py
+[0.317s] [ 84%] Built target bboxes_ex_msgs__rosidl_generator_py
+[0.317s] [100%] Built target bboxes_ex_msgs__rosidl_typesupport_c__pyext
+[0.317s] [100%] Built target bboxes_ex_msgs__rosidl_typesupport_introspection_c__pyext
+[0.317s] [100%] Built target bboxes_ex_msgs__rosidl_typesupport_fastrtps_c__pyext
+[0.347s] running egg_info
+[0.347s] writing bboxes_ex_msgs.egg-info/PKG-INFO
+[0.348s] writing dependency_links to bboxes_ex_msgs.egg-info/dependency_links.txt
+[0.348s] writing top-level names to bboxes_ex_msgs.egg-info/top_level.txt
+[0.349s] reading manifest file 'bboxes_ex_msgs.egg-info/SOURCES.txt'
+[0.350s] writing manifest file 'bboxes_ex_msgs.egg-info/SOURCES.txt'
+[0.370s] [100%] Built target ament_cmake_python_build_bboxes_ex_msgs_egg
+[0.664s] Invoked command in '/home/j/urdf_study/build/bboxes_ex_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/j/urdf_study/install/yolox_ros_py:/home/j/urdf_study/install/video_test:/home/j/ws_moveit2/install/moveit_configs_utils:/home/j/ws_moveit2/install/launch_param_builder:/opt/ros/humble /home/j/.local/bin/cmake --build /home/j/urdf_study/build/bboxes_ex_msgs -- -j12 -l12

@@ -1,1 +1,1 @@
-/home/j/urdf_study/build/bboxes_ex_msgs/ament_cmake_environment_hooks/library_path.dsv
+prepend-non-duplicate;LD_LIBRARY_PATH;lib

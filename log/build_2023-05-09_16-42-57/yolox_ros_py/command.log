@@ -1,0 +1,1 @@
+Invoking command in '/home/j/urdf_study/build/yolox_ros_py': PYTHONPATH=/home/j/urdf_study/build/yolox_ros_py/prefix_override:/home/j/urdf_study/install/yolox_ros_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/j/urdf_study/build/yolox_ros_py/build

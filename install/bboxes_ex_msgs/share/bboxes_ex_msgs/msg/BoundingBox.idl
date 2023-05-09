@@ -1,1 +1,30 @@
-/home/j/urdf_study/build/bboxes_ex_msgs/rosidl_adapter/bboxes_ex_msgs/msg/BoundingBox.idl
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from bboxes_ex_msgs/msg/BoundingBox.msg
+// generated code does not contain a copyright notice
+
+
+module bboxes_ex_msgs {
+  module msg {
+    struct BoundingBox {
+      float probability;
+
+      uint16 xmin;
+
+      uint16 ymin;
+
+      uint16 xmax;
+
+      uint16 ymax;
+
+      uint16 id;
+
+      uint16 img_width;
+
+      uint16 img_height;
+
+      int32 center_dist;
+
+      string class_id;
+    };
+  };
+};

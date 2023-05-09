@@ -1,0 +1,22 @@
+running egg_info
+writing ../../../build/yolox_ros_py/yolox_ros_py.egg-info/PKG-INFO
+writing dependency_links to ../../../build/yolox_ros_py/yolox_ros_py.egg-info/dependency_links.txt
+writing entry points to ../../../build/yolox_ros_py/yolox_ros_py.egg-info/entry_points.txt
+writing requirements to ../../../build/yolox_ros_py/yolox_ros_py.egg-info/requires.txt
+writing top-level names to ../../../build/yolox_ros_py/yolox_ros_py.egg-info/top_level.txt
+reading manifest file '../../../build/yolox_ros_py/yolox_ros_py.egg-info/SOURCES.txt'
+writing manifest file '../../../build/yolox_ros_py/yolox_ros_py.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/j/urdf_study/install/yolox_ros_py/lib/python3.10/site-packages/yolox_ros_py-0.3.2-py3.10.egg-info' (and everything under it)
+Copying ../../../build/yolox_ros_py/yolox_ros_py.egg-info to /home/j/urdf_study/install/yolox_ros_py/lib/python3.10/site-packages/yolox_ros_py-0.3.2-py3.10.egg-info
+running install_scripts
+Installing yolox_onnx script to /home/j/urdf_study/install/yolox_ros_py/lib/yolox_ros_py
+Installing yolox_openvino script to /home/j/urdf_study/install/yolox_ros_py/lib/yolox_ros_py
+Installing yolox_ros script to /home/j/urdf_study/install/yolox_ros_py/lib/yolox_ros_py
+Installing yolox_tflite script to /home/j/urdf_study/install/yolox_ros_py/lib/yolox_ros_py
+writing list of installed files to '/home/j/urdf_study/build/yolox_ros_py/install.log'
